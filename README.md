@@ -2,7 +2,7 @@
 
 🌍 Morando em Natal
 
-👼🏻 Pai de Bento Schivani Dantas
+👼🏻 Pai de Bento S. Dantas
 
 🫶🏾 Mestre em Ciências da Computação
 
@@ -12,7 +12,7 @@
 
 🦖 Iniciando no Judô
 
-✉️  Entre em contato comigo por [e-mail](berg.dantas@rn.senac.br)
+✉️  Entre em contato comigo por [e-mail](mailto:berg.dantas@rn.senac.br)
 
 
 ### Linguagens
