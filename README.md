@@ -1,6 +1,6 @@
 # Olá 👋 me chamo Berg Dantas
 
-🌍 Morando em Natal
+🌍 Morando em São Paulo do Potengi Natal
 
 👼🏻 Pai de Bento S. Dantas
 
@@ -40,7 +40,7 @@
 ## Banco de dados
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
-## Socials
+## Social
 <a href="http://www.instagram.com/eumechamoberg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 ## Badges
