@@ -1,6 +1,6 @@
 # Olá 👋 me chamo Berg Dantas
 
-🌍 Morando em São Paulo do Potengi Natal
+🌍 Morando em São Paulo do Potengi 🔁 Natal
 
 👼🏻 Pai de Bento S. Dantas
 
