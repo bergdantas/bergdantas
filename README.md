@@ -1,4 +1,5 @@
-# Olá 👋 me chamo Berg Dantas
+# Olá! 👋
+#Me chamo Berg Dantas
 
 🌍 Morando em São Paulo do Potengi 🔁 Natal
 
