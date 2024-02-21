@@ -1,7 +1,7 @@
 
 # Olá! Me chamo Berg Dantas! 👋
 
-🌍 Morando em São Paulo do Potengi 🔁 Natal
+🌍 Morando em São Paulo do Potengi
 
 👼🏻 Pai de Bento S. Dantas
 
@@ -13,7 +13,7 @@
 
 🦖 Iniciando no Judô
 
-✉️  Entre em contato comigo por [e-mail](mailto:berg.dantas@rn.senac.br)
+✉️  Entre em contato comigo por [e-mail](mailto:berg.dantas@msn.com)
 
 
 ## Linguagens
@@ -40,6 +40,9 @@
 
 ## Banco de dados
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+
+<a href="http://www.microsoft.com/sqlserver/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SQL Server" /></a>
+
 
 ## Social
 <a href="http://www.instagram.com/eumechamoberg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
