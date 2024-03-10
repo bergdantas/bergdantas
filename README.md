@@ -44,8 +44,13 @@
 <a href="http://www.microsoft.com/sqlserver/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SQL Server" /></a>
 
 
+## Acadêmico
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4296336Y9&tokenCaptchar=03AFcWeA783ag3NuwI0q-zIYFmkmASTMiIjDSR72_fRIs2WqB0vryXxgte4sB_Ok2FzEU1agJrFoqEFQ61MPY53hQAT_O7uXztXWJ9lLwYTINihOHGsWQ7XIM45G6KlqHhIrs5mE7o80o8mlh44U4hHLWKRTzU2c4l5hzgfOir-zWOvoZDM5Pnqo5ku37pl4_QVPwcL6FMt9p4DSSQl9vQThFZsLO2G6-06zX5G4QsXJNbczo0Ktj_TrZsgMtoo6SUwLDh1ue3K5PPWKFrDFcrGMBVBPBNfJDYAyC-50e7Krt55Vwi-Deak2XjDtkQpS_TxVJ24xGe8qeqxC2cHbGMdV8p-FVwkeK8qBWmFbYAlPlGsh2ymHyPqgWWXdENc3EJkZPuxDeMyI8jHuI-24NfEZrdWw7EtRhdqPhdY45v63G2_rIzKskPfrKcKhE-LJVE7WDyyprZQqJ11gdq6nNMrjK42M8Jxs0zgJ4DYxY9YmIYuWPWdwvdiMbBjMz5wBK9UEjXvz9jBh5Ondk-WRoLOA_WYRN6kf_k7i_r26IzqLTMOh9gSSnWG_cdNjjLn5djpFcX42B2Z8kZsEDplSyfpN9q72ISPeUWK23YZvEWwPt_cF8BcWTQJ531MpZOPd5rKVuBlN8OkSHFTJ8xdYNdlB7bjPWHeLpBVe6FpgXKN4wD0OZJYl--_58" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="" /> <img src="https://i0.wp.com/fadepe.org.br/site/wp-content/uploads/2019/10/ni-2017122008175a3a38c958947.jpg" width="32" height="32" /> </picture> </a></p>
+
 ## Social
 <a href="http://www.instagram.com/eumechamoberg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+
 
 ## Distintivos
 
