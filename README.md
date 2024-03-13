@@ -29,25 +29,20 @@
 
 ###### Terminal
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=36 height=36>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=36 height=36>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=36 height=36>
 
 ###### Engine
 
-<img src="" width=36 height=36>
-![unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width=36 height=36>
 
 ###### Office
 
-<img src="" width=36 height=36>
-![tex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg){width=36 height=36}
-![latex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width=36 height=36>
+
 
 ###### Algoritmo experimental
 
-<img src="" width=36 height=36>
-![matlab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg){width=36 height=36}
-![arduíno](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width=36 height=36>
 
 ###### Ferramentas
 
