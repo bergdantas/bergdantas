@@ -22,6 +22,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=36 height=36 />
 
+## Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width=36 height=36>
+
+## Banco de dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=36 height=36>
+
 ## Habilidades
 
 ###### Sistema operacional
@@ -46,33 +52,10 @@
 
 ###### Ferramentas
 
-<img src="" width=36 height=36>
-![git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg){width=36 height=36}
-![github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg){width=36 height=36}
-![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){width=36 height=36}
-![eclipse](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg){width=36 height=36}
-![firefox](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width=36 height=36><img src="" width=36 height=36>
 
 ###### Design
-<img src="" width=36 height=36>
-![canva](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg){width=36 height=36}
-![figma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg){width=36 height=36}
-![gimp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg){width=36 height=36}
-![inkscape](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg){width=36 height=36}
-
-## Frameworks
-<img src="" width=36 height=36>
-![bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg){width=36 height=36}
-![node](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg){width=36 height=36}
-![react](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg){width=36 height=36}
-![jest](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg){width=36 height=36}
-![qt](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg){width=36 height=36}
-
-## Banco de dados
-<img src="" width=36 height=36>
-![sqlserver](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg){width=36 height=36}
-![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg){width=36 height=36}
-![post](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.sv" width=36 height=36>
 
 ## Acadêmico
 <!-- [![Texto Alternativo](URL_da_Imagem)](URL_do_Link)-->
@@ -82,9 +65,7 @@
 
 <a href="http://www.instagram.com/eumechamoberg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width=36 height=36/></a> 
 
-
 ## Informações
-
 
 <!-- profile views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bergdantas&label=Profile%20views&color=0e75b6&style=flat" alt="bergdantas" /> </p> 
