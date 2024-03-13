@@ -1,59 +1,104 @@
 
 # Olá! Me chamo Berg Dantas! 👋
 
-🌍 Morando em São Paulo do Potengi
+:beginner: Professor e analista de sistemas
 
-👼🏻 Pai de Bento S. Dantas
+:earth_americas: Morando em São Paulo do Potengi
 
-🫶🏾 Mestre em Ciências da Computação
+:baby: Pai de Bento S. Dantas
 
-🧮 MBA em Gerenciamento executivo de projetos
+:computer: Mestre em Ciências da Computação
 
-🥋 Faixa preta de Jiu-Jitsu
+:chart_with_upwards_trend: MBA em Gerenciamento executivo de projetos
 
-🦖 Iniciando no Judô
+:kimono: Faixa preta de Jiu-Jitsu
 
-✉️  Entre em contato comigo por [e-mail](mailto:bergdantas@msn.com)
+:space_invader: Iniciando no Judô
+
+:e-mail: Entre em contato comigo por [e-mail](mailto:bergdantas@msn.com)
 
 
 ## Linguagens
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 
-## Skills
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+![html5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg){width=36 height=36}
+![css3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg){width=36 height=36}
+![c](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg){width=36 height=36}
+![uml](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg){width=36 height=36}
+![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){width=36 height=36}
+![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg){width=36 height=36}
+![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg){width=36 height=36}
+![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg){width=36 height=36}
+
+## Habilidades
+
+###### Sistema operacional
+![linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg){width=36 height=36}
+![debian](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg){width=36 height=36}
+
+###### Terminal
+
+![bash](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg){width=36 height=36}
+![powershell](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg
+){width=36 height=36}
+
+###### Engine
+
+![unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg){width=36 height=36}
+
+###### Office
+
+![tex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg){width=36 height=36}
+![latex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg){width=36 height=36}
+
+###### Algoritmo experimental
+
+![matlab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg){width=36 height=36}
+![arduíno](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg){width=36 height=36}
+
+###### Ferramentas
+
+![git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg){width=36 height=36}
+![github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg){width=36 height=36}
+![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){width=36 height=36}
+![eclipse](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg){width=36 height=36}
+![firefox](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg){width=36 height=36}
+
+###### Design
+![canva](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg){width=36 height=36}
+![figma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg){width=36 height=36}
+![gimp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg){width=36 height=36}
+![inkscape](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg){width=36 height=36}
 
 ## Frameworks
-<p align="left">
-<!--<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>-->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+
+![bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg){width=36 height=36}
+![node](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg){width=36 height=36}
+![react](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg){width=36 height=36}
+![jest](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg){width=36 height=36}
+![qt](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg){width=36 height=36}
 
 ## Banco de dados
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="http://www.microsoft.com/sqlserver/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="SQL Server" /></a>
-
+![sqlserver](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg){width=36 height=36}
+![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg){width=36 height=36}
+![post](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg){width=36 height=36}
 
 ## Acadêmico
-<p align="left">
-<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4296336Y9&tokenCaptchar=03AFcWeA783ag3NuwI0q-zIYFmkmASTMiIjDSR72_fRIs2WqB0vryXxgte4sB_Ok2FzEU1agJrFoqEFQ61MPY53hQAT_O7uXztXWJ9lLwYTINihOHGsWQ7XIM45G6KlqHhIrs5mE7o80o8mlh44U4hHLWKRTzU2c4l5hzgfOir-zWOvoZDM5Pnqo5ku37pl4_QVPwcL6FMt9p4DSSQl9vQThFZsLO2G6-06zX5G4QsXJNbczo0Ktj_TrZsgMtoo6SUwLDh1ue3K5PPWKFrDFcrGMBVBPBNfJDYAyC-50e7Krt55Vwi-Deak2XjDtkQpS_TxVJ24xGe8qeqxC2cHbGMdV8p-FVwkeK8qBWmFbYAlPlGsh2ymHyPqgWWXdENc3EJkZPuxDeMyI8jHuI-24NfEZrdWw7EtRhdqPhdY45v63G2_rIzKskPfrKcKhE-LJVE7WDyyprZQqJ11gdq6nNMrjK42M8Jxs0zgJ4DYxY9YmIYuWPWdwvdiMbBjMz5wBK9UEjXvz9jBh5Ondk-WRoLOA_WYRN6kf_k7i_r26IzqLTMOh9gSSnWG_cdNjjLn5djpFcX42B2Z8kZsEDplSyfpN9q72ISPeUWK23YZvEWwPt_cF8BcWTQJ531MpZOPd5rKVuBlN8OkSHFTJ8xdYNdlB7bjPWHeLpBVe6FpgXKN4wD0OZJYl--_58" target="_blank" rel="noreferrer"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png" width="32" height="32" /> </picture> </a>
+<!-- [![Texto Alternativo](URL_da_Imagem)](URL_do_Link)-->
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4296336Y9&tokenCaptchar=03AFcWeA783ag3NuwI0q-zIYFmkmASTMiIjDSR72_fRIs2WqB0vryXxgte4sB_Ok2FzEU1agJrFoqEFQ61MPY53hQAT_O7uXztXWJ9lLwYTINihOHGsWQ7XIM45G6KlqHhIrs5mE7o80o8mlh44U4hHLWKRTzU2c4l5hzgfOir-zWOvoZDM5Pnqo5ku37pl4_QVPwcL6FMt9p4DSSQl9vQThFZsLO2G6-06zX5G4QsXJNbczo0Ktj_TrZsgMtoo6SUwLDh1ue3K5PPWKFrDFcrGMBVBPBNfJDYAyC-50e7Krt55Vwi-Deak2XjDtkQpS_TxVJ24xGe8qeqxC2cHbGMdV8p-FVwkeK8qBWmFbYAlPlGsh2ymHyPqgWWXdENc3EJkZPuxDeMyI8jHuI-24NfEZrdWw7EtRhdqPhdY45v63G2_rIzKskPfrKcKhE-LJVE7WDyyprZQqJ11gdq6nNMrjK42M8Jxs0zgJ4DYxY9YmIYuWPWdwvdiMbBjMz5wBK9UEjXvz9jBh5Ondk-WRoLOA_WYRN6kf_k7i_r26IzqLTMOh9gSSnWG_cdNjjLn5djpFcX42B2Z8kZsEDplSyfpN9q72ISPeUWK23YZvEWwPt_cF8BcWTQJ531MpZOPd5rKVuBlN8OkSHFTJ8xdYNdlB7bjPWHeLpBVe6FpgXKN4wD0OZJYl--_58"><img src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png" width=36 height=36/></a> 
 
 ## Social
-<p align="left">
-<a href="http://www.instagram.com/eumechamoberg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-## Distintivos
+<a href="http://www.instagram.com/eumechamoberg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width=36 height=36/></a> 
 
-<b>Estatísticas</b>
 
-<a href="http://www.github.com/bergdantas"><img src="https://github-readme-stats.vercel.app/api?username=bergdantas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bergdantas's GitHub stats" /></a>
+## Informações
+
+
+<!-- profile views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bergdantas&label=Profile%20views&color=0e75b6&style=flat" alt="bergdantas" /> </p> 
+
+<!-- languages </p>-->
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=bergdantas&show_icons=true&locale=en&layout=compact" alt="bergdantas" />
+
+<!-- stats -->
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bergdantas&show_icons=true&locale=en" alt="bergdantas" /></p>
