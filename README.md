@@ -22,40 +22,36 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=36 height=36 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=36 height=36 />
 
-<!-->
-<a href=""><img src="" width=36 height=36></a>
-<img src="" width=36 height=36>
--->
-
-
 ## Habilidades
 
 ###### Sistema operacional
-![linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg){width=36 height=36}
-![debian](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=36 height=36><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width=36 height=36>
 
 ###### Terminal
 
-![bash](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg){width=36 height=36}
-![powershell](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg
-){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=36 height=36>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=36 height=36>
 
 ###### Engine
 
+<img src="" width=36 height=36>
 ![unity](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg){width=36 height=36}
 
 ###### Office
 
+<img src="" width=36 height=36>
 ![tex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg){width=36 height=36}
 ![latex](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg){width=36 height=36}
 
 ###### Algoritmo experimental
 
+<img src="" width=36 height=36>
 ![matlab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg){width=36 height=36}
 ![arduíno](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg){width=36 height=36}
 
 ###### Ferramentas
 
+<img src="" width=36 height=36>
 ![git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg){width=36 height=36}
 ![github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg){width=36 height=36}
 ![vscode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){width=36 height=36}
@@ -63,13 +59,14 @@
 ![firefox](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg){width=36 height=36}
 
 ###### Design
+<img src="" width=36 height=36>
 ![canva](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg){width=36 height=36}
 ![figma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg){width=36 height=36}
 ![gimp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg){width=36 height=36}
 ![inkscape](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg){width=36 height=36}
 
 ## Frameworks
-
+<img src="" width=36 height=36>
 ![bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg){width=36 height=36}
 ![node](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg){width=36 height=36}
 ![react](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg){width=36 height=36}
@@ -77,6 +74,7 @@
 ![qt](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg){width=36 height=36}
 
 ## Banco de dados
+<img src="" width=36 height=36>
 ![sqlserver](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg){width=36 height=36}
 ![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg){width=36 height=36}
 ![post](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg){width=36 height=36}
@@ -101,3 +99,9 @@
 
 <!-- stats -->
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bergdantas&show_icons=true&locale=en" alt="bergdantas" /></p>
+
+
+<!--
+<a href=""><img src="" width=36 height=36></a>
+<img src="" width=36 height=36>
+-->
