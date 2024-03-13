@@ -20,14 +20,18 @@
 
 ## Linguagens
 
-![html5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg){width=36 height=36}
-![css3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg){width=36 height=36}
-![c](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg){width=36 height=36}
-![uml](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg){width=36 height=36}
-![java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg){width=36 height=36}
-![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg){width=36 height=36}
-![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg){width=36 height=36}
-![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg){width=36 height=36}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=36 height=36 />
+
+<a href=""><img src="" width=36 height=36></a>
+<img src="" width=36 height=36>
+
 
 ## Habilidades
 
